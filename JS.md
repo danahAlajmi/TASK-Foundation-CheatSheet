@@ -50,7 +50,7 @@ To print out on the console
 
 ```js
 // 1. printing string
-console.log(_____Hello World_____); // -> Hello World
+console.log(_____"Hello World"_____); // -> Hello World
 
 // 2. printing values inside stored variables or constant
 const pi = 3.14;
@@ -76,7 +76,7 @@ Every text should be between quotation marks.
 
 ```js
 console.log("\n"); // prints a new line
-console.log("\b"); // prints a tab   space
+console.log("\t"); // prints a tab   space
 console.log('\\'); // prints a single back slash \
 console.log("\""); // prints a single quotation mark "
 ```
@@ -101,7 +101,7 @@ console.log(`${y} ${x}`); // prints: 101
 10 - 5
 
 // multiplication
-10 *_* 5
+10 *  5
 
 // division
 10 / 5
